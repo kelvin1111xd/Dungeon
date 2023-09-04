@@ -1,3 +1,6 @@
+DEMO VIDEO
+https://youtu.be/8KG2k_Z8a4w
+
 點擊Dungeon.exe即可遊玩
 
 玩家扮演法師(hp 3, atk 1)
